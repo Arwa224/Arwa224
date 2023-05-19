@@ -29,9 +29,3 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-studio&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter%20-05122A?style=flat&logo=Flutter)&nbsp;
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arwa244&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Arwa224&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Arwa224&style=for-the-badge">
-</a>
