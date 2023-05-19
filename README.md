@@ -13,10 +13,10 @@ I'm a sofrware engineering...
 
 
 ## 🛠 &nbsp;Skills
-C++
-C
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
+![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-Android Studio, ...
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-studio&logoColor=007ACC)&nbsp;
