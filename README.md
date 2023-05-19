@@ -28,3 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-studio&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter%20-05122A?style=flat&logo=Flutter)&nbsp;
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arwa224&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
